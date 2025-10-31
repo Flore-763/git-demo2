@@ -2,4 +2,6 @@
 
 ### repo2
 
-g
+### Developpement state
+
+open the index.html in your browser to see web pages
